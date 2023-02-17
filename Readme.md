@@ -7,8 +7,8 @@ In this project seller is the user of the application and any customer can acces
 
 **Website Images :**
 
-![Home Page](Screenshots/img1.png)
+![Home Page](screenshots/img1.png)
 
 <br><br/>
 
-![Register Page](Screenshots/img2.png)
+![Register Page](screenshots/img2.png)
